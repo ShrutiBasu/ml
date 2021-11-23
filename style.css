@@ -1,0 +1,21 @@
+.heading{
+    width: 80%;
+    font: size 22px;
+}
+
+body{
+    background-image: linear-gradient(#6cb9ba,#906cba);
+}
+
+.nameofobject{
+    color:red;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+#camara{
+    border-width: 2px;
+    border-style: solid;
+    border-color: rosybrown;
+    width: 350px;
+    height: 300px;
+}
